@@ -1,0 +1,14 @@
+C:\Projetos\Logica\QuartoProjeto\QuartoProjeto\bin\Debug\net8.0\QuartoProjeto.exe
+C:\Projetos\Logica\QuartoProjeto\QuartoProjeto\bin\Debug\net8.0\QuartoProjeto.deps.json
+C:\Projetos\Logica\QuartoProjeto\QuartoProjeto\bin\Debug\net8.0\QuartoProjeto.runtimeconfig.json
+C:\Projetos\Logica\QuartoProjeto\QuartoProjeto\bin\Debug\net8.0\QuartoProjeto.dll
+C:\Projetos\Logica\QuartoProjeto\QuartoProjeto\bin\Debug\net8.0\QuartoProjeto.pdb
+C:\Projetos\Logica\QuartoProjeto\QuartoProjeto\obj\Debug\net8.0\QuartoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Logica\QuartoProjeto\QuartoProjeto\obj\Debug\net8.0\QuartoProjeto.AssemblyInfoInputs.cache
+C:\Projetos\Logica\QuartoProjeto\QuartoProjeto\obj\Debug\net8.0\QuartoProjeto.AssemblyInfo.cs
+C:\Projetos\Logica\QuartoProjeto\QuartoProjeto\obj\Debug\net8.0\QuartoProjeto.csproj.CoreCompileInputs.cache
+C:\Projetos\Logica\QuartoProjeto\QuartoProjeto\obj\Debug\net8.0\QuartoProjeto.dll
+C:\Projetos\Logica\QuartoProjeto\QuartoProjeto\obj\Debug\net8.0\refint\QuartoProjeto.dll
+C:\Projetos\Logica\QuartoProjeto\QuartoProjeto\obj\Debug\net8.0\QuartoProjeto.pdb
+C:\Projetos\Logica\QuartoProjeto\QuartoProjeto\obj\Debug\net8.0\QuartoProjeto.genruntimeconfig.cache
+C:\Projetos\Logica\QuartoProjeto\QuartoProjeto\obj\Debug\net8.0\ref\QuartoProjeto.dll
